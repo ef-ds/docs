@@ -5,7 +5,7 @@ ef-ds is our way to say "Thank you very much open source community for all the s
 
 As a member of the open source community, please help grow the community by using, sharing and contributing back to any of the tons of open source projects out there. The community altogether is super excited to see new, engaged members, and so are we at ef-ds!
 
-If you are interested in contributing to ef-ds, for now help to spread the word and let others know about ef-ds. Once ef-ds is fully mature, we'll start accepting contributions.
+If you are interested in contributing to ef-ds, for now help to spread the word and let others know about ef-ds. Once ef-ds is in a more mature state, we'll start accepting contributions. Having said that, this shouldn't stop you from suggesting changes, specially concerning bugs or performance/efficienty bottlenecks.
 
 We're 100% commited to below software development rules:
 
