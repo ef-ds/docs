@@ -18,5 +18,3 @@ We're 100% commited to below software development rules:
 	- Strong test suite covering all code routes/branches
 	- Strong focus to achieve 100% code coverage everywhere
 	- Regression tests are a must for bug fixes
-
-On top of that, clean code is a must. No weird, obscure logic anywhere. As part of that principle, we avoid using comments to describe code logic as we strive to make the code so clean that any inline comments would just pollute the code (no need to explain what is very clear already!). The rule we follow is this: if we feel the need to add a comment to explain something, think again. That likely means the logic is too complex. Rethink and simplify!
