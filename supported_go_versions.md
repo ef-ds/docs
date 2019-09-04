@@ -3,3 +3,5 @@ We're committed to support all new Go versions, so as soon as a new stable versi
 Currently Supported (Tested) Go Versions
 - 1.10.x
 - 1.11.x
+- 1.12.x
+- 1.13.x
